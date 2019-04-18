@@ -1,1 +1,3 @@
-# news_api
+# A news agreggator site using NewsAPI
+
+* 
