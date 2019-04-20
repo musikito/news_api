@@ -1,0 +1,28 @@
+{
+  "name": "news_api",
+  "version": "1.0.0",
+  "description": "![breaking news](https://github.com/musikito/news_api/blob/master/img/Whats%20News%20Today.png)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musikito/news_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musikito/news_api/issues"
+  },
+  "homepage": "https://github.com/musikito/news_api#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}

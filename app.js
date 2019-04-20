@@ -1,3 +1,7 @@
+$(document).ready(function () {
+    
+});
+
 /*
 document.getElementById('btn-newsSearch').addEventListener('click', loadNews);
 
