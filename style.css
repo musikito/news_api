@@ -1,5 +1,6 @@
 body{
-    background: url('../img/breaking-news.jpg');
+   /* background: url('../img/breaking-news.jpg'); */
+   background-color: rgba(218, 223, 225,1);
   background-size: cover;
   }
   a, a:link, a:active, a:visited, a:hover{
